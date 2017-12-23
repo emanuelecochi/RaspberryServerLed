@@ -1,6 +1,6 @@
 # RaspberryServerLed
 
-A simply server with raspberry with node.js for turn on/off led
+A simply server with raspberry for turn on/off led
 
 Install dependencies
 - npm install 
